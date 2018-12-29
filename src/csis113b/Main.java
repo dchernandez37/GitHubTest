@@ -26,6 +26,9 @@ public class Main
         }
         
         ++counter;
+        
+        // find the sum of numbers in the inclusive range of 1 and 5
+        var sum = sumNumbersInRange(1, 5);
     }
     
     public static boolean max(int first, int second) {
