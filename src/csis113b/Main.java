@@ -29,6 +29,7 @@ public class Main
         
         // find the sum of numbers in the inclusive range of 1 and 5
         var sum = sumNumbersInRange(1, 5);
+        System.out.println(sum);
     }
     
     public static boolean max(int first, int second) {
